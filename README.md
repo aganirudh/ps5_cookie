@@ -1,7 +1,7 @@
 # Phantom Consensus
 
 ## Team Information
-- **Team Name**: ps5_cookie
+- **Team Name**: Cookie
 - **Year**: 2026
 - **All-Female Team**: No
 
